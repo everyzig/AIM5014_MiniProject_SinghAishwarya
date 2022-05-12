@@ -1,0 +1,1 @@
+{"method_name": "mb_nstep", "avg_regret": 23995.0, "std_error": 1165.6854206860444, "num_steps": 100000, "num_datapoints": 200, "num_runs": 10, "stochasticity": 0, "state_space_multiplier": 1, "alpha": 0.04, "lambda": 0.95, "q_init": 4}
